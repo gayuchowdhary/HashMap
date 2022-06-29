@@ -5,18 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e2244696-6dd9-47b6-8d84-6d5e83ec5369" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HashMap.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/bl/hashmap/HashMap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/bl/hashmap/HashMapMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/bl/hashmap/IHashMap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/bl/hashmap/MapLinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/bl/hashmap/MyMapNode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/bl/hashmap/HashMap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/bl/hashmap/HashMap.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,13 +32,13 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "/home/hp/Downloads/CensusAnalyser-20220628T030457Z-001"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/hp/Downloads/CensusAnalyser-20220628T030457Z-001&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="com.bl.hashmap" />
