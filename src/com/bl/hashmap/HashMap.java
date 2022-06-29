@@ -2,7 +2,7 @@ package com.bl.hashmap;
 
 import java.util.Arrays;
 
-public class HashMap<K, T> implements IHashMap<K, T>{
+    public class HashMap<K, T> implements IHashMap<K, T>{
 
     int size = 0;
     MapLinkedList[] buckets = new MapLinkedList[6];
